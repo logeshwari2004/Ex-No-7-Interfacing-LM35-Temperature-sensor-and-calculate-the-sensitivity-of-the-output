@@ -195,6 +195,10 @@ Figure -08 Circuit diagram of interfacing an LM35 with ADC input pin
 ## Kiel - Program
 
 ```
+NAME: LOGESHWARI P
+REG NO: 212221230055
+```
+```
 #include<lpc214x.h>
 #include "LCD.h"
 #include "ADC.h"
@@ -238,4 +242,4 @@ Figure -09 graph between temperature values and ADC output
 
 ## Result :
 
-Temperature sensor LM35 is interfaced to LPC2148 and its output is measured
+Temperature sensor LM35 is interfaced to LPC2148 and its output is measured.
